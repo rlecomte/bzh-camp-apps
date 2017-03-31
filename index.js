@@ -29,7 +29,7 @@ app.get('/', (request, response) => {
          "id":appID
        },
        headers: { "Content-Type": "application/json" }
-  // };
+  };
   // You are nearly there!
    client.post("http://onboarder-breizhcamp.cleverapps.io/play", args, function (data, response) {
      console.log(response.statusCode);
