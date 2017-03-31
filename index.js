@@ -23,9 +23,9 @@ app.get('/', (request, response) => {
   // Change the name and email so we know who you are!
   // let args = {
   //     data: {
-  //       "firstname":"Alain",
-  //       "lastname":"Chabat",
-  //       "email":"regis@con",
+  //       "firstname":"Romain",
+  //       "lastname":"Lecomte",
+  //       "email":"romain.lecomte.pro@gmail.com",
   //       "id":appID
   //     },
   //     headers: { "Content-Type": "application/json" }
